@@ -9,4 +9,5 @@ function myNubers() {
     return result;
 }
 let a = myNubers();
-console.log(a)
+// console.log(a);
+console.log(a);
