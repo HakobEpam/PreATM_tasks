@@ -1,3 +1,4 @@
+//This is the first task "Create a function(s) that fulfills array with 10 random integer values and returns a multiply of 3 greatest values"
 function myNubers() {
     let arr = [];
     for (let index = 0; index <= 9; index++) {
